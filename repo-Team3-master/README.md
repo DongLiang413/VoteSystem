@@ -5,7 +5,7 @@ a) Two common methods for voting system:
 
 b) Water fall life span.
 
-c) My contribution: java base code generating, UML design, OPL implementation, SSD, Documentation, interface design, scrum demo, bug                           report, runtime analysis, and unit test.
+c) My contribution: java base code generating, UML design, OPL implementation, SDD, SRS, Documentation, interface design, scrum demo, bug                           report, runtime analysis, and unit test.
 
             
 
