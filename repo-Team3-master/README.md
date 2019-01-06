@@ -1,10 +1,11 @@
-# repo-Team3
-Team3 (Liang, Liu, Chen, Hong)
+a) Two common methods for voting system:
 
-1)  Dong Liang (liang492)
-2)  Song Liu (liux4169)
-3)  Shi Chen (chen4264)
-4)  Qing Hong (hong0465)
+1. OPL 
+2. IR
 
-Expectations:
-1)  Everyone is on time for events
+b) Water fall life span.
+
+c) My contribution: java base code generating, UML design, OPL implementation, SDD, SRS, Documentation, interface design, scrum demo, bug                           report, runtime analysis, and unit test.
+
+            
+
